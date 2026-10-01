@@ -1,0 +1,36 @@
+{
+  "razao_social": "IRMAOS FOCAR COMERCIO DE VEICULOS LTDA",
+  "nome_fantasia": "Focar Veículos",
+  "cnpj": "29.016.322/0001-00",
+  "endereco": {
+    "cep": "95052-338",
+    "logradouro": "Avenida: Rubem Bento Alves,",
+    "numero": "1098,",
+    "complemento": null,
+    "bairro": "Sagrada Família,",
+    "estado": "Rio Grande do Sul",
+    "cidade": "Caxias do Sul",
+    "ponto_referencia": null
+  },
+  "contato": {
+    "email": "vendas@focarveiculos.com.br",
+    "site": "www.focarveiculos.com.br",
+    "telefone": {
+      "numero": "(54) 9964-02887",
+      "tipo": "WhatsApp"
+    }
+  },
+  "redes_sociais": {
+    "facebook": "https://www.facebook.com/focarveiculoss",
+    "instagram": "https://www.instagram.com/focarveiculos/",
+    "youtube": null,
+    "tiktok": null
+  },
+  "historico": "A Focar Veículos é uma empresa familiar, fundada em 2006, por Valdir Fochezatto e sua esposa, trabalhando com as mais variadas marcas e modelos, sendo eles novos e seminovos.\nHoje em um novo ambiente, amplo e moderno, estamos sempre em busca de melhorias e nosso diferencial é o atendimento. Procuramos passar transparência, credibilidade e segurança para todos os clientes.\n\nDesejamos que o nosso trabalho faça a diferença!\n\nFocar Veiculos.",
+  "horario_atendimento": "Segunda a Sexta das 8:30 ao 12:00 e das 13:30 às 18:30 / Sábados das 8:30 ao 12:00.",
+  "banners_topo": [
+    "https://s3.amazonaws.com/cdn.revendapro.com.br/banners/81003/9301369166aa9835b105d2.png",
+    "https://s3.amazonaws.com/cdn.revendapro.com.br/banners/81003/4984092126aa982d406681.png",
+    "https://s3.amazonaws.com/cdn.revendapro.com.br/banners/81003/21105339506aa9831f910d7.png"
+  ]
+}
