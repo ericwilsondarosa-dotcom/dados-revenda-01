@@ -104,7 +104,7 @@
         "Revisões em Concessionária",
         "Quitado"
       ],
-      "Destaque": "Nao",
+      "Destaque": "Sim",
       "AtualizadoEm": "2026-08-10 10:35:47",
       "AceitaTrocaPor": null,
       "Carroceria": "Suv"
@@ -170,7 +170,7 @@
         "Aceita Troca",
         "Quitado"
       ],
-      "Destaque": "Nao",
+      "Destaque": "Sim",
       "AtualizadoEm": "2026-01-05 17:34:09",
       "AceitaTrocaPor": null,
       "Carroceria": "Moto"
@@ -370,7 +370,7 @@
         "Único Dono",
         "Quitado"
       ],
-      "Destaque": "Nao",
+      "Destaque": "Sim",
       "AtualizadoEm": "2026-08-10 11:13:45",
       "AceitaTrocaPor": null,
       "Carroceria": "Suv"
