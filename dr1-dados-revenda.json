@@ -1,0 +1,46 @@
+{
+  "razao_social": "DR1 COMERCIO DE VEÍCULOS MULTIMARCAS LTDA ME",
+  "nome_fantasia": "DR1 Veículos Multimarcas",
+  "cnpj": "26.600.290/0001-06",
+  "endereco": {
+    "cep": "95096-000",
+    "logradouro": "AV. Rio Branco",
+    "numero": "1382,",
+    "complemento": "Térreo",
+    "bairro": "Rio Branco,",
+    "estado": "Rio Grande do Sul",
+    "cidade": "Caxias do Sul",
+    "ponto_referencia": null
+  },
+  "contato": {
+    "email": "vendas@focarveiculos.com.br",
+    "site": "www.dr1veiculos.com.br",
+    "telefone": {
+      "numero": "(54) 9965-17675",
+      "tipo": "WhatsApp"
+    },
+    "telefones": [
+      {
+        "numero": "(54) 3029-8288",
+        "tipo": "Fixo"
+      },
+      {
+        "numero": "(54) 9965-17675",
+        "tipo": "WhatsApp"
+      }
+    ]
+  },
+  "redes_sociais": {
+    "facebook": "www.dr1veiculos.com.br",
+    "instagram": "https://www.instagram.com/dr1veiculos/",
+    "youtube": null,
+    "tiktok": null
+  },
+  "historico": "Revenda de veículos seminovos que preza pela clareza na negociação com seus clientes, trazendo produtos de extrema qualidade e preço justo. Não feche negócio sem antes passar em nossa loja, você vai se surpreender. Nossa loja é destaque no segmento!\nRealize seu sonho, conquiste sua liberdade!!!",
+  "horario_atendimento": "Segunda a Sexta das 8:30 ao 12:00 e das 13:30 às 18:30 / Sábados das 8:30 ao 12:00",
+  "banners_topo": [
+    "https://s3.amazonaws.com/cdn.revendapro.com.br/banners/27259/20855714036ab55a23883b3.jpg",
+    "https://s3.amazonaws.com/cdn.revendapro.com.br/banners/27259/12371900786abd0cff77cdf.jpg",
+    "https://s3.amazonaws.com/cdn.revendapro.com.br/banners/27259/167007862369c696bc92d2d.jpg"
+  ]
+}
