@@ -1,0 +1,46 @@
+{
+  "razao_social": "Referencial AF Comércio de Veículos Ltda ME",
+  "nome_fantasia": "Novo Estilo Veículos - Loja 01",
+  "cnpj": "15.634.451/0001-58",
+  "endereco": {
+    "cep": "95096-112",
+    "logradouro": "Avenida: Perimetral Sul Bruno Segalla,",
+    "numero": "10043,",
+    "complemento": "Térreo",
+    "bairro": "Kayser,",
+    "estado": "Rio Grande do Sul",
+    "cidade": "Caxias do Sul",
+    "ponto_referencia": null
+  },
+  "contato": {
+    "email": "novoestilo@novoestiloveiculos.com.br",
+    "site": "www.novoestiloveiculos.com.br",
+    "telefone": {
+      "numero": "(54) 9810-49130",
+      "tipo": "WhatsApp"
+    },
+    "telefones": [
+      {
+        "numero": "(54) 3536-1665",
+        "tipo": "Fixo"
+      },
+      {
+        "numero": "(54) 9810-49130",
+        "tipo": "WhatsApp"
+      }
+    ]
+  },
+  "redes_sociais": {
+    "facebook": "https://www.facebook.com/novoestiloveiculos/",
+    "instagram": "https://www.instagram.com/novoestiloveiculos/",
+    "youtube": null,
+    "tiktok": null
+  },
+  "historico": "A Novo Estilo Veículos possui 2 lojas com uma ampla área e com excelentes opções de carros seminovos, todos revisados e com garantia.\n\nNosso comprometimento é com nosso principal diferencial: VOCÊ, nosso cliente !\n\nPor isso estamos sempre em busca da qualidade dos nossos veículos, bom atendimento e rapidez, para melhor atendê-lo.\n\nVenha conhecer a loja e saia de NOVO ESTILO...",
+  "horario_atendimento": "Segunda a Sexta das 08:30 as 18:30/ Sábado das 08:30 ao 12:00.",
+  "banners_topo": [
+    "https://s3.amazonaws.com/cdn.revendapro.com.br/banners/27259/20855714036ab55a23883b3.jpg",
+    "https://s3.amazonaws.com/cdn.revendapro.com.br/banners/27259/12371900786abd0cff77cdf.jpg",
+    "https://s3.amazonaws.com/cdn.revendapro.com.br/banners/27259/167007862369c696bc92d2d.jpg"
+  ]
+}
